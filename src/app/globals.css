@@ -8,10 +8,10 @@
 
   /* light theme */
   --background-light: #ffffff;
-  --foreground--ligth: #171717;
+  --foreground--ligth: #000000;
 
     /* dark theme */
-    --background-dark: darkblue;
+    --background-dark: #000000;
     --foreground-dark: #ffffff;
 
 }
