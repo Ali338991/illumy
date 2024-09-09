@@ -16,7 +16,7 @@ export default function Home() {
         document.documentElement.classList.remove("dark");
         localStorage.setItem("theme", "light");
       }
-    }, 10000);
+    }, 180000); // 3 minutes
 
     return () => clearInterval(interval);
   }, []);
